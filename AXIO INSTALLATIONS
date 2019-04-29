@@ -1,0 +1,4 @@
+INSTALL AXIOS USING YARN: 
+yarn add axios
+Do not forget to import axios into your project, for example:
+import axios from 'axios';
